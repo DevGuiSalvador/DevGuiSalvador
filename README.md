@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/guilhermesalvador?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTilLwN5tQyKeVczVDpqH5Q%3D%3D">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.reddit.com/user/DevGui_">
-     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  <a href="https://www.instagram.com/devguisalvador/">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://mobile.twitter.com/DevGuiSalvador">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
