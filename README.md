@@ -26,9 +26,9 @@
 ---
 ### :man_technologist: About Me :
 I am a programming student from Brazil.
-- :telescope: I'm studying Dart, javascript, flutter and react native.
+- :telescope: I'm studying javascript, Html5, CSS3 and react native.
 
-- :seedling: Exploring mobile and web development.
+- :seedling: Exploring web development.
 
 - :zap: In my free time, I watch series and play games.
 
