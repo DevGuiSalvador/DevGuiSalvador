@@ -26,7 +26,7 @@
 ---
 ### :man_technologist: About Me :
 I am a programming student from Brazil.
-- :telescope: I'm studying javascript, Html5, Css3 and react native.
+- :telescope: I'm studying javascript, Html5, Css3 and react.
 
 - :seedling: Exploring web development.
 
