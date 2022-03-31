@@ -5,10 +5,10 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguisalvador&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-dart" height="30" width="90" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center" alt="Gui-flutter" height="30" width="90" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center" alt="Gui-android" height="30" width="90" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img align="center" alt="Gui-material" height="30" width="95" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="32" height="32"/>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/8cf6bc0654d66b5d6fca61107756f9b9/e21a0a20d944c582-45/s250x400/2db6336275b452d083944bec22771d98fd81e3b3.png">
 </div>
   
