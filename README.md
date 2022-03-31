@@ -1,51 +1,21 @@
+## Ola eu sou o Guilherme Salvador!
 <div align="center">
-  <img height = "180" src= "https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif"
+  <a href="https://github.com/DevGuiSalvador">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGuiSalvador&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiSalvador&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-dart" height="30" width="90" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Gui-flutter" height="30" width="90" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center" alt="Gui-android" height="30" width="90" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img align="center" alt="Gui-material" height="30" width="95" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/8cf6bc0654d66b5d6fca61107756f9b9/e21a0a20d944c582-45/s250x400/2db6336275b452d083944bec22771d98fd81e3b3.png">
 </div>
   
-<div id="badges">
-  <a href="https://www.linkedin.com/in/guilhermesalvador?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTilLwN5tQyKeVczVDpqH5Q%3D%3D">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/devguisalvador/">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://mobile.twitter.com/DevGuiSalvador">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>  
- </div>
+  ##
  
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div> 
+  <a href="https://www.instagram.com/devguisalvador/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "https://mobile.twitter.com/DevGuiSalvador"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-</div>  
-
----
-### :man_technologist: About Me :
-I am a programming student from Brazil.
-- :telescope: I'm studying javascript, Html5, Css3 and react.
-
-- :seedling: Exploring web development.
-
-- :zap: In my free time, I watch series and play games.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevGuiSalvador&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiSalvador&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
