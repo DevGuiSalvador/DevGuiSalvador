@@ -23,4 +23,8 @@
   <a href = "https://mobile.twitter.com/DevGuiSalvador"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilhermesalvador" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<br>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guilhermegestroy&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
+
 </div>
