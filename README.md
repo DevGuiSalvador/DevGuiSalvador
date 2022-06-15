@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/474x/08/e5/ae/08e5aec8bb7817ebebe8aefae0825bed.jpg">
+  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/6aad3564458a5344733deb0a72b1c2c3/1dac51b605f6deb4-22/s250x400/822d87abf5cea39dbe67e1b256543f8b2869c771.jpg">
 </div>
   
   ##
